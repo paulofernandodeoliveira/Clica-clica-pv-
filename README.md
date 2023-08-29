@@ -17,6 +17,11 @@ Escolha a aba correspondente à sua automação (DC ou DS).
 Clique no botão "Iniciar Automação" para começar a automatização.
 Clique no botão "Parar Automação" para interromper a automatização.
 Clique no botão "Ajuda" para obter informações adicionais.
+
+Utilização
+Ressalvo que não avera a necessidade de que os computadores que irão utilizar este software tenham as linguagens e as devidas bibliotecas, pois será enviado em formato de executavel.
+
+
 Contribuição
 Sinta-se à vontade para fazer fork deste repositório, adicionar recursos ou corrigir problemas. Contribuições são bem-vindas!
 
